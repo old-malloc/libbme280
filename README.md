@@ -204,7 +204,7 @@ values measured by the sensor and prints them in the command window
 <p style="margin-bottom: 0cm; line-height: 100%"><br/>
 
 </p>
-<p style="margin-bottom: 0cm; line-height: 100%"><img src="./images/html_5e74c4c3c3811b4e.png" name="Image2" alt="No alt text provided for this image" align="bottom" width="592" height="356" border="0"/>
+<p style="margin-bottom: 0cm; line-height: 100%"><img src="./images/fig2.png" name="Image2" alt="No alt text provided for this image" align="bottom" width="592" height="356" border="0"/>
 </p>
 <p style="margin-bottom: 0cm; line-height: 100%">In the next article,
 the shared library will be used to create a graphical web monitor in
