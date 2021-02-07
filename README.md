@@ -58,17 +58,17 @@ sensor to the raspberry takes place as follows:</p>
 <ol>
 	<li><p style="margin-bottom: 0cm; line-height: 100%">The VCC pin of
 	the sensor must be connected to pin 1 of the 40-pin connector of the
-	rasperry, which provides a 3.3V power supply.</p>
+	Raspberry Pi, which provides a 3.3V power supply.</p>
 	<li><p style="margin-bottom: 0cm; line-height: 100%">The GND pin of
 	the sensor must be connected to pin 6 of the 40 pin connector of the
-	rasperry to have a common reference of the voltages.</p>
+	Raspberry Pi to have a common reference of the voltages.</p>
 	<li><p style="margin-bottom: 0cm; line-height: 100%">The SCL pin of
 	the sensor must be connected to pin 5 of the 40-pin connector (BCM
-	GPIO 3) of the rasperry, which provides the clock reference of the
+	GPIO 3) of the Raspberry Pi, which provides the clock reference of the
 	I2C bus.</p>
 	<li><p style="margin-bottom: 0cm; line-height: 100%">The SDA pin of
 	the sensor must be connected to pin 3 of the 40-pin connector (BCM
-	GPIO 2) of the raspberry so that the two devices can exchange data.</p>
+	GPIO 2) of the Raspberry Pi so that the two devices can exchange data.</p>
 </ol>
 <p style="margin-bottom: 0cm; line-height: 100%"><br/>
 
@@ -78,7 +78,7 @@ shows the prototype with the connections presented.</p>
 <p style="margin-bottom: 0cm; line-height: 100%"><img src="./images/fig1.png" name="Image1" alt="No alt text provided for this image" align="bottom" width="556" height="382" border="0"/>
 </p>
 <p style="margin-bottom: 0cm; line-height: 100%">In order for the
-raspberry to communicate with the sensor, make sure that the I2C
+Raspberry Pi to communicate with the sensor, make sure that the I2C
 interface is enabled.</p>
 <p style="margin-bottom: 0cm; line-height: 100%"><br/>
 
@@ -95,7 +95,7 @@ necessary:</p>
 	<li><p style="margin-bottom: 0cm; line-height: 100%">Select “Yes”
 	when asked to activate the I2C bus</p>
 	<li><p style="margin-bottom: 0cm; line-height: 100%">Reboot the
-	raspberry</p>
+	Raspberry Pi</p>
 </ol>
 <p style="margin-bottom: 0cm; line-height: 100%"><br/>
 
