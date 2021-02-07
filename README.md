@@ -198,7 +198,7 @@ library must be in the same folder as the &quot;main.c&quot; file.</p>
 
 </p>
 <p style="margin-bottom: 0cm; line-height: 100%">By launching the
-“bme280test” executable file, the raspberry starts reading the
+“bme280test” executable file, the Raspberry Pi starts reading the
 values measured by the sensor and prints them in the command window
 (figure below).</p>
 <p style="margin-bottom: 0cm; line-height: 100%"><br/>
