@@ -122,7 +122,7 @@ possible to communicate with the sensor to the software that uses it.</p>
 </p>
 <p style="margin-bottom: 0cm; line-height: 100%">To compile the
 software, a project was created using the “Geany” IDE, available
-in the RaspiOS operating system, in which the three files were
+in the RaspiOS operating system, in which this three files were
 loaded.</p>
 <p style="margin-bottom: 0cm; line-height: 100%"><br/>
 
