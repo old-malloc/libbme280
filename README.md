@@ -1,7 +1,8 @@
 <h1 class="western">
 IOT Lab – Data Acquisition</h1>
 <p style="margin-bottom: 0cm; line-height: 100%"><br/>
-
+<font face="Liberation Sans, sans-serif"><font size="4" style="font-size: 10pt">Vittorino
+Baldi (vittorino.baldi@gmail.com)</font></font>
 </p>
 <p style="margin-bottom: 0cm; line-height: 100%">
 This series of articles are intended to be an explanatory exposition
