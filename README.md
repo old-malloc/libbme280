@@ -114,10 +114,9 @@ GitHub at https://github.com/BoschSensortec/BME280_driver.</p>
 
 </p>
 <p style="margin-bottom: 0cm; line-height: 100%">As you can see,
-there are basically three files in &quot;C&quot; language (bme280.c,
-bme280.h, bme280_defs.h) which, compiled into a library, make the
-communication operations with the sensor available to the software
-programs that call it.</p>
+there are basically three &quot;C&quot; language files (bme280.c,
+bme280.h, bme280_defs.h) which compiled into a library make
+possible to communicate with the sensor to the software that uses it.</p>
 <p style="margin-bottom: 0cm; line-height: 100%"><br/>
 
 </p>
