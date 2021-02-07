@@ -15,7 +15,7 @@ useful for understanding the general operation principles of IOT
 
 </p>
 <p style="margin-bottom: 0cm; line-height: 100%">This will be done
-with the goal of creating a simple laboratory prototype for measuring
+with the goal of creating a simple prototype for measuring
 environmental parameters (temperature, humidity and pressure) by
 identifying the hardware and software components necessary to meet
 the different possible needs.</p>
