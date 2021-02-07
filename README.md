@@ -25,7 +25,7 @@ the different possible needs.</p>
 <p style="margin-bottom: 0cm; line-height: 100%"><strong>Data
 acquisition</strong></p>
 <p style="margin-bottom: 0cm; line-height: 100%">The first phase
-consists, of course, in creating the device for data acquisition.</p>
+consists, of course, in assembling the device for data acquisition.</p>
 <p style="margin-bottom: 0cm; line-height: 100%">In this case, we
 will use the following components:</p>
 <ul>
