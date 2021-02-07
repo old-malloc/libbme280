@@ -75,7 +75,7 @@ sensor to the raspberry takes place as follows:</p>
 </p>
 <p style="margin-bottom: 0cm; line-height: 100%">The following figure
 shows the prototype with the connections presented.</p>
-<p style="margin-bottom: 0cm; line-height: 100%"><img src="./images/html_a0d14455797bf288.jpg" name="Image1" alt="No alt text provided for this image" align="bottom" width="556" height="382" border="0"/>
+<p style="margin-bottom: 0cm; line-height: 100%"><img src="./images/fig1.png" name="Image1" alt="No alt text provided for this image" align="bottom" width="556" height="382" border="0"/>
 </p>
 <p style="margin-bottom: 0cm; line-height: 100%">In order for the
 raspberry to communicate with the sensor, make sure that the I2C
