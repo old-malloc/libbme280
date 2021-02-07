@@ -9,7 +9,7 @@ Baldi (vittorino.baldi@gmail.com)</font>
 </p>
 <p style="margin-bottom: 0cm; line-height: 100%">
 This series of articles are intended to be an explanatory exposition
-useful for understanding the general principles of operation of IOT
+useful for understanding the general operation principles of IOT
 (Internet Of Things) solutions.</p>
 <p style="margin-bottom: 0cm; line-height: 100%"><br/>
 
