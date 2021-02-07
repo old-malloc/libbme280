@@ -208,7 +208,7 @@ values measured by the sensor and prints them in the command window
 </p>
 <p style="margin-bottom: 0cm; line-height: 100%">In the next article,
 the shared library will be used to create a graphical web monitor in
-python language for displaying measurements.</p>
+Python language for displaying measurements.</p>
 <p style="margin-bottom: 0cm; line-height: 100%"><br/>
 
 </p>
