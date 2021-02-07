@@ -18,7 +18,7 @@ useful for understanding the general operation principles of IOT
 <p style="margin-bottom: 0cm; line-height: 100%">This will be done
 with the goal of creating a simple prototype for measuring
 environmental parameters (temperature, humidity and pressure) by
-identifying the hardware and software components necessary to meet
+identifying the hardware and software components required to meet
 the different possible needs.</p>
 <p style="margin-bottom: 0cm; line-height: 100%"><br/>
 
@@ -84,8 +84,8 @@ interface is enabled.</p>
 <p style="margin-bottom: 0cm; line-height: 100%"><br/>
 
 </p>
-<p style="margin-bottom: 0cm; line-height: 100%">To do this it is
-necessary:</p>
+<p style="margin-bottom: 0cm; line-height: 100%">To do this, it's
+needed to follow these steps:</p>
 <ol>
 	<li><p style="margin-bottom: 0cm; line-height: 100%">From the
 	command line type &quot;sudo raspi-config&quot;</p>
