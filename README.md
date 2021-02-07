@@ -135,7 +135,7 @@ folder, which contain higher level structures and functions using the
 basic functions in the &quot;bme280.c&quot; file, and the files
 &quot;bme280func.h&quot; and &quot;bme280func.c&quot;, with the
 functions that are used for reading the environmental parameters
-from the applications created in these labs.</p>
+by the applications created in these labs.</p>
 <p style="margin-bottom: 0cm; line-height: 100%"><br/>
 
 </p>
