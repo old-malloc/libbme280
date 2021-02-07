@@ -156,7 +156,7 @@ is a function called by “get_one_sample” that configures the
 operating mode of the sensor, based on its specifications
 (retrievable at the link
 https://www.bosch-sensortec.com/media/boschsensortec/downloads/datasheets/bst-bme280-ds002.pdf),
-and read it when a communication channel is available.</p>
+and perform a reading when a communication channel is available.</p>
 <p style="margin-bottom: 0cm; line-height: 100%"><br/>
 
 </p>
