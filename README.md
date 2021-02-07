@@ -3,7 +3,7 @@ IOT Lab – Data Acquisition</h1>
 <p>
 <font face="Liberation Sans, sans-serif" style="font-size: 10pt">Author: Vittorino
 Baldi</font><br/>
-<a href="mailto:indirizzo@email.com">email: vittorino.baldi@gmail.com</a>
+<a href="mailto:vittorino.baldi@gmail.com">email: vittorino.baldi@gmail.com</a>
 </p>
 <p style="margin-bottom: 0cm; line-height: 100%"><br/>
 
