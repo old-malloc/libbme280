@@ -48,7 +48,7 @@ communication on the I2C bus was used.</p>
 
 </p>
 <p style="margin-bottom: 0cm; line-height: 100%">With reference to
-the I2C standard, the rasperry operates as a master while the BME280
+the I2C standard, the Rasperry Pi operates as a master while the BME280
 sensor is a slave.</p>
 <p style="margin-bottom: 0cm; line-height: 100%"><br/>
 
