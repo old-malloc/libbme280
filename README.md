@@ -1,8 +1,9 @@
 <h1 class="western">
 IOT Lab – Data Acquisition</h1>
 <p>
-<font face="Liberation Sans, sans-serif" style="font-size: 10pt">Vittorino
-Baldi (vittorino.baldi@gmail.com)</font>
+<font face="Liberation Sans, sans-serif" style="font-size: 10pt">Author: Vittorino
+Baldi</font><br/>
+<a href="mailto:indirizzo@email.com">email: vittorino.baldi@gmail.com</a>
 </p>
 <p style="margin-bottom: 0cm; line-height: 100%"><br/>
 
