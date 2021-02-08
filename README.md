@@ -55,7 +55,7 @@ sensor as a slave.</p>
 
 </p>
 <p style="margin-bottom: 0cm; line-height: 100%">The wiring of the
-sensor to the raspberry takes place as follows:</p>
+sensor to the Raspberry Pi takes place as follows:</p>
 <ol>
 	<li><p style="margin-bottom: 0cm; line-height: 100%">The VCC pin of
 	the sensor must be connected to pin 1 of the 40-pin connector of the
@@ -78,13 +78,7 @@ sensor to the raspberry takes place as follows:</p>
 shows the prototype with the connections presented.</p>
 <p style="margin-bottom: 0cm; line-height: 100%"><img src="./images/fig1.png" name="Image1" alt="No alt text provided for this image" align="bottom" width="556" height="382" border="0"/>
 </p>
-<p style="margin-bottom: 0cm; line-height: 100%">In order for the
-Raspberry Pi to communicate with the sensor, make sure that the I2C
-interface is enabled.</p>
-<p style="margin-bottom: 0cm; line-height: 100%"><br/>
-
-</p>
-<p style="margin-bottom: 0cm; line-height: 100%">To do this, it's
+<p style="margin-bottom: 0cm; line-height: 100%">To enable Raspberry Pi I2C interface, it's
 needed to follow these steps:</p>
 <ol>
 	<li><p style="margin-bottom: 0cm; line-height: 100%">From the
