@@ -78,7 +78,7 @@ sensor to the Raspberry Pi takes place as follows:</p>
 shows the prototype with the connections presented.</p>
 <p style="margin-bottom: 0cm; line-height: 100%"><img src="./images/fig1.png" name="Image1" alt="No alt text provided for this image" align="bottom" width="556" height="382" border="0"/>
 </p>
-<p style="margin-bottom: 0cm; line-height: 100%">To enable Raspberry Pi I2C interface, it's
+<p style="margin-bottom: 0cm; line-height: 100%">Now, to enable Raspberry Pi I2C interface, it's
 needed to follow these steps:</p>
 <ol>
 	<li><p style="margin-bottom: 0cm; line-height: 100%">From the
@@ -95,15 +95,11 @@ needed to follow these steps:</p>
 <p style="margin-bottom: 0cm; line-height: 100%"><br/>
 
 </p>
-<p style="margin-bottom: 0cm; line-height: 100%">Now you need to have
-the software needed to call up the BME280 in order to configure and
-control the reading operations.</p>
-<p style="margin-bottom: 0cm; line-height: 100%"><br/>
-
-</p>
-<p style="margin-bottom: 0cm; line-height: 100%">These labs use the
-source code of the chip manufacturer (Bosch), which can be found on
-GitHub at https://github.com/BoschSensortec/BME280_driver.</p>
+<p style="margin-bottom: 0cm; line-height: 100%">Next, in order to 
+configure and control the reading operations on BME280, 
+these labs use the source code of the chip manufacturer (Bosch), 
+which can be found on GitHub at 
+https://github.com/BoschSensortec/BME280_driver.</p>
 <p style="margin-bottom: 0cm; line-height: 100%"><br/>
 
 </p>
